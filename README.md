@@ -1,6 +1,6 @@
 # Miniprojeto: Gerador de Cores Aleatórias
 
-Este projeto foi desenvolvido por **Gabriel Prestes** como parte de uma atividade prática sobre Git e GitHub para a disciplina do Professor Marcão.
+Este projeto foi desenvolvido por Gabriel Prestes como parte de uma atividade prática sobre Git e GitHub para a disciplina do Professor Marcão.
 
 ## 🎯 Objetivo
 Aplicar na prática os conceitos de versionamento, branches, commits, issues e pull requests utilizando um miniprojeto simples em HTML, CSS e JavaScript.
