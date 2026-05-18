@@ -15,3 +15,10 @@ btn.addEventListener('click', () => {
     document.body.style.backgroundColor = newColor;
     colorCode.textContent = `Cor: ${newColor}`;
 });
+
+colorCode.addEventListener('click', () => {
+    const text = colorCode.textContent.split(': ')[1];
+    navigator.clipboard.writeText(text).then(() => {
+        alert('Cor copiada para a área de transferência!');
+    });
+});
