@@ -27,3 +27,4 @@ Para cumprir os requisitos da atividade, o seguinte fluxo foi seguido:
    - Foram abertos Pull Requests para revisar e integrar as funcionalidades à branch principal main.
 
 
+Contribuição do Alex para a atividade N2
